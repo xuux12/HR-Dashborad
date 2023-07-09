@@ -12,3 +12,11 @@ The HR department requires visual representations to analyse attrition rates bas
 In this project we will see attrition rate by gander for different age groups.
 This makes it challenging to identify any age and gender related attrition trends,
 Preventing the organization from implementing targeted retention strategies for specific employee segment.
+
+
+##  Skills /concepts demonstrated   
+•	Dax
+•	Quick measure
+•	Condition Columns Addition 
+•	Filters    
+---
