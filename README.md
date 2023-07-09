@@ -14,9 +14,10 @@ This makes it challenging to identify any age and gender related attrition trend
 Preventing the organization from implementing targeted retention strategies for specific employee segment.
 
 
-##  Skills /concepts demonstrated   
-•	Dax
-•	Quick measure
-•	Condition Columns Addition 
-•	Filters    
----
+
+ ## Skills /concepts demonstrated:  
+ -Dax 
+ -Quick measure 
+ -Condition Columns Addition 
+ -Filters    
+
