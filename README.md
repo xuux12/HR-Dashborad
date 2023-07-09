@@ -16,8 +16,10 @@ Preventing the organization from implementing targeted retention strategies for 
 
 
  ## Skills /concepts demonstrated:  
- -Dax 
- -Quick measure 
- -Condition Columns Addition 
- -Filters    
+ 
+ 
+ - Dax 
+ - Quick measure 
+ - Condition Columns Addition 
+ - Filters    
 
