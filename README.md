@@ -18,7 +18,7 @@ Preventing the organization from implementing targeted retention strategies for 
  ## Skills /concepts demonstrated:  
  
  
- - Dax 
+ - Dax (Calculating Employee Attrition Rate With DAX Power Bi)
  - Quick measure 
  - Condition Columns Addition 
  - Filters    
