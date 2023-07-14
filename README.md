@@ -19,11 +19,11 @@ Preventing the organization from implementing targeted retention strategies for 
  
  
  -Tasks:
-In this project
-1- Loaded the csv files into the Power BI.
-2- Cleaned and organized the data.
-3- Built a multi-tables data model.
-4- Used DAX to calculated business measures.
+In this project 
+-  Loaded the csv files into the Power BI.
+-  Cleaned and organized the data.
+-  Built a multi-tables data model.
+-  Used DAX to calculated business measures.
 
 
 
