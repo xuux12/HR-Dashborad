@@ -18,8 +18,12 @@ Preventing the organization from implementing targeted retention strategies for 
  ## Skills /concepts demonstrated:  
  
  
- - Dax (Calculating Employee Attrition Rate With DAX Power Bi)
- - Quick measure 
- - Condition Columns Addition 
- - Filters    
+ -Tasks:
+In this project
+1- Loaded the csv files into the Power BI.
+2- Cleaned and organized the data.
+3- Built a multi-tables data model.
+4- Used DAX to calculated business measures.
+
+
 
