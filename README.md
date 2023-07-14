@@ -1,6 +1,6 @@
 # HR Analysis
 
-The employee deal is about more than pay and rewards. 
+The Employee Deal Is About More Than Pay And Rewards. 
 ---
 
 
